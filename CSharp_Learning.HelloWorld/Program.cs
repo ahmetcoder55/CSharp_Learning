@@ -5,3 +5,17 @@
 */
 
 Console.Write("Hello World");
+
+/*
+ Cursor Movement: WriteLine moves the cursor to the beginning of the next line after the output, while Write leaves the cursor immediately after the written text.
+
+Line Break Character: WriteLine automatically adds a line break character (\n), while Write does not.
+
+Purpose: WriteLine is generally used to list data one after another; Write allows for side-by-side printing on the same line (for example, asking questions on the same line while retrieving data from the user).
+
+Example Output: WriteLine is preferred for printing one line at a time, while Write is used to continue by adding spaces or additional text. 
+*/
+
+Console.WriteLine("My Name is Ahmet");
+
+Console.WriteLine("This is a C# Code");
