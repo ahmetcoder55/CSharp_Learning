@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="CSharp_Learning.HelloWorld/CSharp_Learning.HelloWorld.csproj" />
+  <Project Path="CSharp_Learning.Variables/CSharp_Learning.Variables.csproj" Id="c34be414-db2c-41e0-abf3-787185104cd9" />
 </Solution>
