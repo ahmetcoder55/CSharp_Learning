@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="CSharp_Learning.ArraysAndLists/CSharp_Learning.ArraysAndLists.csproj" Id="f5d6fabc-d9e4-48dd-a72e-806053b39900" />
   <Project Path="CSharp_Learning.Conditional_Statements/CSharp_Learning.Conditional_Statements.csproj" Id="a087249e-fe17-4d8e-a505-8757b8b43c94" />
   <Project Path="CSharp_Learning.HelloWorld/CSharp_Learning.HelloWorld.csproj" />
   <Project Path="CSharp_Learning.Loops/CSharp_Learning.Loops.csproj" Id="c25e0b79-5fd5-4a0c-bc40-71448919f0bb" />
