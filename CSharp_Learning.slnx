@@ -5,6 +5,7 @@
   <Project Path="CSharp_Learning.ExceptionHandling/CSharp_Learning.ExceptionHandling.csproj" Id="6c1c5d4f-bb39-4e33-a508-37f749eb68bc" />
   <Project Path="CSharp_Learning.Functions/CSharp_Learning.Functions.csproj" Id="4cbb74fd-8488-4761-ac3a-18dbaf18095c" />
   <Project Path="CSharp_Learning.HelloWorld/CSharp_Learning.HelloWorld.csproj" />
+  <Project Path="CSharp_Learning.LINQ/CSharp_Learning.LINQ.csproj" Id="7105f770-f97a-46d9-bb61-d4130ea0a0ee" />
   <Project Path="CSharp_Learning.Loops/CSharp_Learning.Loops.csproj" Id="c25e0b79-5fd5-4a0c-bc40-71448919f0bb" />
   <Project Path="CSharp_Learning.OOP/CSharp_Learning.OOP.csproj" Id="58b675f0-66c1-428a-bfb4-2dcf4c2c8ef5" />
   <Project Path="CSharp_Learning.Variables/CSharp_Learning.Variables.csproj" Id="c34be414-db2c-41e0-abf3-787185104cd9" />
