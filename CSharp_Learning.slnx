@@ -1,6 +1,8 @@
 <Solution>
   <Project Path="CSharp_Learning.AccessModifiers/CSharp_Learning.AccessModifiers.csproj" Id="24645eb3-265b-4538-a662-469e4313db02" />
   <Project Path="CSharp_Learning.ArraysAndLists/CSharp_Learning.ArraysAndLists.csproj" Id="f5d6fabc-d9e4-48dd-a72e-806053b39900" />
+  <Project Path="CSharp_Learning.AsyncProgramming/CSharp_Learning.AsyncProgramming.csproj" Id="9d0688c8-0174-4856-927d-71271ebecc09" />
+  <Project Path="CSharp_Learning.AsyncProgrammingCodeExample/CSharp_Learning.AsyncProgrammingCodeExample.csproj" Id="15db0d4a-c2bd-4463-a08b-bdcead951e4e" />
   <Project Path="CSharp_Learning.Conditional_Statements/CSharp_Learning.Conditional_Statements.csproj" Id="a087249e-fe17-4d8e-a505-8757b8b43c94" />
   <Project Path="CSharp_Learning.ExceptionHandling/CSharp_Learning.ExceptionHandling.csproj" Id="6c1c5d4f-bb39-4e33-a508-37f749eb68bc" />
   <Project Path="CSharp_Learning.Functions/CSharp_Learning.Functions.csproj" Id="4cbb74fd-8488-4761-ac3a-18dbaf18095c" />
